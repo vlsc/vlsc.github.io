@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(226, 204, 204);
+}
+
+.content{
+    background-color:rgba(206, 175, 175, 0.555);
+    border-radius: 5px;
+}
+
+
+
+
+.jumbotron{
+    background-color: rosybrown;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: rgb(29, 22, 22);
+    margin-bottom: 0px;
+  
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: rgb(29, 22, 22);
+
+}
+
+h6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: rgb(29, 22, 22);
+}
+
+.vic{
+    padding-top: 20px;
+}
+
+nav{
+    background-color: rosybrown;
+}
+
+.navbar-expand{
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.row{
+    margin-right: 0;
+}
+
+.content-image{
+    clip-path: circle(40%);
+    transition: 500ms;
+    width: 250px;
+    
+}
+.content-image:hover{
+    clip-path: circle(50%);
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    font-size: large;
+    color: rgb(221, 194, 194);
+    transition: 500ms;
+}
+
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: rgb(29, 22, 22);
+    padding-left: 10px;
+}
+
+footer{
+    background-color: rosybrown;
+}
+
+.content-footer{
+    background-color: rosybrown;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+span{
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(29, 22, 22);
+    font-size: medium;
+    transition: 500ms;
+
+}
+
+span:hover{
+    font-size: large;
+    color: rgb(221, 194, 194);
+
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.logos{
+    clip-path: circle(40%);
+    transition: 400ms;
+    background: rgba(128, 128, 128, 0.514);
+   
+
+}
+
+.logos:hover{
+    clip-path: circle(57%);
+    background: none;
+}
+
+.acessar{
+    color:rgb(161, 125, 125);
+    transition: 500ms;
+
+}
+
+.acessar:hover{
+    font-size: larger;
+    color:rgb(112, 73, 73);
+}
+
+.navbar-light .navbar-nav .nav-link.set {
+    color: rgb(221, 194, 194);
+    font-size: large;
+}
+
+
+
+
+
